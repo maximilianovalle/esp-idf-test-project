@@ -1,0 +1,2 @@
+source /home/twofacedshark/esp/test-project/build/gdbinit/symbols
+source /home/twofacedshark/esp/test-project/build/gdbinit/connect

@@ -1,0 +1,2 @@
+source /home/twofacedshark/esp/test-project/build/bootloader/gdbinit/symbols
+source /home/twofacedshark/esp/test-project/build/bootloader/gdbinit/connect
